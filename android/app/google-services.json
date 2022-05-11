@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "465787257125",
+    "project_id": "fatec-manha-app-cafe",
+    "storage_bucket": "fatec-manha-app-cafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465787257125:android:648c61d7d651452a731acc",
+        "android_client_info": {
+          "package_name": "com.example.app07_loja_cafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465787257125-cm4pb7v01he3ki1s35vmb7qff8t72kj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfPaG1BrPlvOezZugWh1ydTQeWUOl4d-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465787257125-cm4pb7v01he3ki1s35vmb7qff8t72kj7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465787257125-aeu29548q9h325jplprrkruivq0c701v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app07LojaCafe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
