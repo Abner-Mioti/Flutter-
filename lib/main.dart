@@ -1,5 +1,6 @@
 import 'package:app07_loja_cafe/firebase_options.dart';
 import 'package:app07_loja_cafe/pages/criar_conta_page.dart';
+import 'package:app07_loja_cafe/pages/inserir_page.dart';
 import 'package:app07_loja_cafe/pages/login_page.dart';
 import 'package:app07_loja_cafe/pages/principal_page.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -16,6 +17,7 @@ Future<void> main() async {
       'login': (context) => const LoginPage(),
       'criar_conta': (context) => CriarContaPage(),
       'principal': (context) => const PrincipalPage(),
+      'inserir': (context) => const InserirPage(),
     },
   ));
 }
